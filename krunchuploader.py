@@ -31,7 +31,7 @@ def main():
          \___/| .__/|_|\___/ \__,_|\__,_|\___|_|   
               | |                                  
               |_|  
-               Version 1.5 TronTeam
+               Version 1.5 
 """
     sys.stdout.write("\x1b[2J\x1b[H")
     print title
